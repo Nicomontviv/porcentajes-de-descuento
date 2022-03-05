@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(255, 184, 51);
+}
+.h1style{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    color: rgb(102, 33, 12);
+    margin: auto;
+    padding-left: 150px;
+    padding-bottom: 50px;
+}
+.sectionstyle{
+    margin: auto;
+    padding: 50px;
+    border-radius: 10px;
+    background-color: azure;
+    width: 500px;
+    height: 500px;
+}
+.h2style{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: rgb(78, 4, 4);
+}
+.price{
+    display: flex;
+    font-size: 30px;
+    color: black;
+    
+}
+.discount{
+    display: flex;
+    font-size: 30px;
+    color: black;
+    padding-right: 5px;
+}
+.buttonStyle{
+   margin: 50px;
+    padding-top: 10px;
+    width: 200px;
+    height: 70px;
+    background-color: rgb(251, 255, 5);
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    border-style:solid;
+
+    font-style: italic;
+}
+.pstyle{
+    display: flex;
+    font-size: 30px;
+    color: black;
+    padding-right: 5px;
+}
+
